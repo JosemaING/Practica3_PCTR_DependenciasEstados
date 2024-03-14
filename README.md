@@ -3,13 +3,13 @@
 
 Esta es la plantilla ha sido modificada para la realización de la tercera práctica de la asignatura de Programación Concurrente y Tiempo Real (PCTR) del Grado en Ingeniería Informática de la Universidad de Burgos.
 
-## AUTOR
+### AUTOR
 
 - **Nombre del Autor:** José María Santos
 - **Email:** jsr1002@alu.ubu.es
 - **Fecha:** 14/03/2024
 
-## MODIFICACIÓN
+### MODIFICACIÓN
 
 La plantilla original ha sido modificada para implementar una simulación del flujo de personas en un parque, gestionando entradas y salidas a través de varias puertas. La simulación utiliza un modelo de concurrencia, creando un conjunto de tareas (hilos) que representan las actividades de entrada y salida del parque.
 
