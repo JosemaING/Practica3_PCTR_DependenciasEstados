@@ -19,7 +19,7 @@ La plantilla original ha sido modificada para implementar una simulación del fl
 - **Instancia Parque:** La capacidad máxima del parque ha sido establecida en 50 personas, dentro del código de `SistemaLanzador.java`.
 - **Argumentos de Ejecución (VM):** Se han de utilizar los argumentos `-ea` para una correcta ejecución.
 
-### CONTENIDO EXTRA AÑÁDIDO
+### CONTENIDO EXTRA AÑADIDO
 
 Además del código fuente, se han incluido los siguientes elementos:
 
